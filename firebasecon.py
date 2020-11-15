@@ -6,7 +6,7 @@ import intruptLogin as il
 #from usb import *
 
 try:
-    firebase = firebase.FirebaseApplication("https://fir-con-5932e.firebaseio.com/", None)
+    firebase = firebase.FirebaseApplication("//paste firebase database url here...", None)
 except:
     tkMessageBox.showinfo('Message', 'Cannot connect to internet please check your Internet Connection!!!')
 
