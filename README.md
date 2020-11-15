@@ -1,2 +1,2 @@
 # Projects
-This Project can br use for Intrusion Detection System to provide security to priority places.
+This Project can be use for Intrusion Detection System to provide security to priority places.
